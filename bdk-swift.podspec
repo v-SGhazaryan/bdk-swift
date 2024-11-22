@@ -5,8 +5,8 @@ Pod::Spec.new do |spec|
   spec.description  = 'BDK-swift provides Swift bindings for BDK, a lightweight Bitcoin wallet toolkit for building wallets.'
   spec.homepage     = "https://github.com/bitcoindevkit/bdk-swift/tree/#{spec.version}"
   spec.license      = { :type => 'MIT', :file => 'LICENSE' }
-  spec.author       = { 'Bitcoin Dev Kit' => 'v-shovhannisyan@quantumftg.com' }
-  spec.source       = { :git => 'https://github.com/v-SHovhannisyan/bdk-swift.git', :branch => 'forked-branch' }
+  spec.author       = { 'Bitcoin Dev Kit' => 'v-sghazaryan@quantumftg.com' }
+  spec.source       = { :git => 'https://github.com/v-SGhazaryan/bdk-swift.git', :branch => 'master' }
   # Set platform and deployment target
   spec.platform     = :ios, '13.0'
   spec.ios.deployment_target = '13.0'
